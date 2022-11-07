@@ -1,4 +1,4 @@
-<h1 align="center">Votaciones MINTIC cilo 4A 2022</h1>
+<h1 align="center">Votaciones MINTIC ciclo 4A 2022</h1>
 
 # Cycle 4 Project
 
