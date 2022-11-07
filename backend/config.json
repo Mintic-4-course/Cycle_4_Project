@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 8999,
+
+  "data-db-connection": "mongodb+srv://alfnogruabd:1234Alfredo@cluster0.orhotsb.mongodb.net/?retryWrites=true&w=majority",
+  "name-db": "bd-registro-academico"
+}
