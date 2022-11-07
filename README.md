@@ -1,6 +1,4 @@
-<h1 align="center">Votaciones MINTIC ciclo 4A 2022</h1>
-
-# Cycle 4 Project
+<h1 align="center">Proyecto de Votaciones MINTIC ciclo 4A 2022</h1>
 
 ## 🛠️ Integrantes
 1. Angie Katherine Moreno Cañon
